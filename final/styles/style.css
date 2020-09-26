@@ -1,0 +1,144 @@
+.one{
+	 background-image: linear-gradient(to bottom right, 
+	 #ff3300 , #fbff00 , #3bb4cc);
+	 height:auto;
+	 background-repeat:no-repeat;
+	 background-size:100% 100%;
+}
+
+h2,p,h1,li{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+	 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color:#5c5454;
+}
+
+li a{
+	text-decoration:none;
+	color:black;
+	font-size:23px;
+	padding:0 15px;
+}
+
+header{
+	top:0;
+	left:0;
+	text-align:center;
+	box-shadow:10px 5px 5px; color:#838383;
+	padding:3px 0;
+	border-radius: 5px;
+}
+
+.daohang{
+	list-style-type:none;
+	display:inline;
+	
+}
+
+a:hover,
+a.item{
+	color:#3b90cc
+}
+
+h1{
+	font-size:35px;
+	text-align:center;
+	margin-top:3px;
+	border-radius: 5px;
+	color:white;
+	padding-top:15px;
+}
+
+.xinxi{
+	font-size:24px;
+	margin-left: 60px;
+	margin-bottom: 10px;
+	margin-right: 0;
+}
+
+.one{
+	width:auto;
+	border:0;
+	padding:50px;
+	margin:5px;	
+	top:0;
+	border-radius: 5px;
+}
+
+.two{
+	background-color:white;
+	width: 1150px;
+	padding: 30px;
+	border-radius: 5px;
+	margin: auto;
+	height: auto;
+	margin-top: 40px;
+	margin-bottom: 150px;
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 60px;
+	color:#5c5454;
+	margin-top: 80px;
+}
+
+
+#mingren{
+	position:absolute;
+	left: 60%;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	width: 300px;
+}
+
+p{
+	font-size:24px;
+	margin:80px 75px 150px 75px;
+	padding-top: 10px;
+	text-indent: 50px;
+	line-height:170%;
+}
+
+#wangye{
+    height: 80%;
+	width: 80%;
+    right: -100px;
+	position: relative;
+	margin:0;
+	
+}
+
+#daima{
+	position: relative;
+	left: 98px;
+	width: 82%;
+	margin-top:0;
+	margin-bottom: 60px;
+}
+
+#QQ {
+	width: 30%;
+	margin-left: 150px;
+	margin-bottom: 50px;
+}
+
+#wechat{
+	width: 30%;
+	margin-left: 150px;
+	margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
